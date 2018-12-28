@@ -1,0 +1,12 @@
+{
+    "title": "Machine Learning",
+    "description": "Study Note for Machine Learning",
+    "author": "Hecate",
+    "root": ".",
+
+    "plugins": [
+        "mathjax"
+        
+    ]
+
+  }
